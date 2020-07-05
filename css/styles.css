@@ -1,0 +1,17 @@
+Body {
+  background-color: lavender;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 10%;
+}
+h1{
+  color: #c70039;
+}
+h3{
+  color: #c70039;
+}
